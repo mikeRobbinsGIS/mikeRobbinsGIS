@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring data engineer with a strong background in GIS, local government, and asset management.
+- 🔭 I’m currently working on a project that extracts congressional voting data, transforms the data into a spatial format, and loads into a webmap via leaflet.
+- 📫 robbins.mid@gmail.com
